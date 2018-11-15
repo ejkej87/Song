@@ -1,0 +1,22 @@
+body {
+   background: #000;
+   color: #fff;
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+   width: 490px;
+   margin: 0 auto;
+}
+
+header h2 {
+   padding-top: 50px;
+}
+
+header h3,p {
+   padding-bottom: 40px;
+}
+
+
